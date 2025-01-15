@@ -1,0 +1,875 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\Foodzx.Power1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|d:\\dev\\foodzx.power1\\foodzx.power1.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\dataaccess\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\datamodel\\userdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\datamodel\\userdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\logic\\apiuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\logic\\apiuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\providers\\userprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\providers\\userprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.dataaccess\\base\\mysqldataaccessconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|solutionrelative:foodzx.power1.dataaccess\\base\\mysqldataaccessconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\configuration\\configurationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\configuration\\configurationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88855E73-A67D-4DFD-8D32-B2B7BF720F0A}|Foodzx.Power1.MailPullerApp\\Foodzx.Power1.MailPullerApp.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.mailpullerapp\\configuration\\configurationdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88855E73-A67D-4DFD-8D32-B2B7BF720F0A}|Foodzx.Power1.MailPullerApp\\Foodzx.Power1.MailPullerApp.csproj|solutionrelative:foodzx.power1.mailpullerapp\\configuration\\configurationdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\configuration\\configurationdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\configuration\\configurationdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88855E73-A67D-4DFD-8D32-B2B7BF720F0A}|Foodzx.Power1.MailPullerApp\\Foodzx.Power1.MailPullerApp.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.mailpullerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88855E73-A67D-4DFD-8D32-B2B7BF720F0A}|Foodzx.Power1.MailPullerApp\\Foodzx.Power1.MailPullerApp.csproj|solutionrelative:foodzx.power1.mailpullerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.dataaccess\\base\\mysqldataaccessprimebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|solutionrelative:foodzx.power1.dataaccess\\base\\mysqldataaccessprimebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\configuration\\frameworkconfigurationdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\configuration\\frameworkconfigurationdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.dataaccess\\interfaces\\idataaccessconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|solutionrelative:foodzx.power1.dataaccess\\interfaces\\idataaccessconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\dataaccess\\contactdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\dataaccess\\contactdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\dataaccess\\filedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\dataaccess\\filedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\dataaccess\\mailboxdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\dataaccess\\mailboxdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\dataaccess\\mailmessagedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\dataaccess\\mailmessagedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\dataaccess\\organizationdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\dataaccess\\organizationdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\dataaccess\\projectdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\dataaccess\\projectdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.dataaccess\\base\\mysqldataaccessbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|solutionrelative:foodzx.power1.dataaccess\\base\\mysqldataaccessbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.dataaccess\\dataaccessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|solutionrelative:foodzx.power1.dataaccess\\dataaccessmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.json\\jsonarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|solutionrelative:foodzx.power1.framework.json\\jsonarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.json\\jsonobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|solutionrelative:foodzx.power1.framework.json\\jsonobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\mailmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\mailmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\mailboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\mailboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\portalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\portalusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.json\\jsonstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|solutionrelative:foodzx.power1.framework.json\\jsonstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.json\\interface\\ijsonobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|solutionrelative:foodzx.power1.framework.json\\interface\\ijsonobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.json\\jsonguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|solutionrelative:foodzx.power1.framework.json\\jsonguid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.json\\jsonboolean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|solutionrelative:foodzx.power1.framework.json\\jsonboolean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E3921-2C7A-4FA7-AEFF-62D63174A3A2}|Foodzx.Power1.Framework.Common\\Foodzx.Power1.Framework.Common.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.common\\providers\\actionresultjsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E3921-2C7A-4FA7-AEFF-62D63174A3A2}|Foodzx.Power1.Framework.Common\\Foodzx.Power1.Framework.Common.csproj|solutionrelative:foodzx.power1.framework.common\\providers\\actionresultjsonprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E3921-2C7A-4FA7-AEFF-62D63174A3A2}|Foodzx.Power1.Framework.Common\\Foodzx.Power1.Framework.Common.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.common\\datamodel\\actionresultdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E3921-2C7A-4FA7-AEFF-62D63174A3A2}|Foodzx.Power1.Framework.Common\\Foodzx.Power1.Framework.Common.csproj|solutionrelative:foodzx.power1.framework.common\\datamodel\\actionresultdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.json\\jsoninteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99254B5E-4248-43A4-BB89-3805C305C4DD}|Foodzx.Power1.Framework.Json\\Foodzx.Power1.Framework.Json.csproj|solutionrelative:foodzx.power1.framework.json\\jsoninteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{352E3921-2C7A-4FA7-AEFF-62D63174A3A2}|Foodzx.Power1.Framework.Common\\Foodzx.Power1.Framework.Common.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{352E3921-2C7A-4FA7-AEFF-62D63174A3A2}|Foodzx.Power1.Framework.Common\\Foodzx.Power1.Framework.Common.csproj|solutionrelative:foodzx.power1.framework.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\datamodel\\projectdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\datamodel\\projectdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\datamodel\\organizationdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\datamodel\\organizationdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\datamodel\\mailmessagedatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\datamodel\\mailmessagedatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\datamodel\\mailboxdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\datamodel\\mailboxdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\datamodel\\contactdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\datamodel\\contactdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework\\datamodel\\filedatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3053D2D-373E-45E7-9CA0-A849C829EF75}|Foodzx.Power1.Framework\\Foodzx.Power1.Framework.csproj|solutionrelative:foodzx.power1.framework\\datamodel\\filedatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.dataaccess\\base\\datamodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8C0BBF5-4046-44D8-8E7E-3EAED0B9CFE9}|Foodzx.Power1.DataAccess\\Foodzx.Power1.DataAccess.csproj|solutionrelative:foodzx.power1.dataaccess\\base\\datamodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6152E423-FC55-4909-AE2A-B5894FC32CF1}|Foodzx.Power1.WebApi\\Foodzx.Power1.WebApi.csproj|solutionrelative:foodzx.power1.webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492C9265-40D9-4E46-9DA0-624EE3E1EABB}|Foodzx.Power1.Framework.Mail\\Foodzx.Power1.Framework.Mail.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.mail\\mailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492C9265-40D9-4E46-9DA0-624EE3E1EABB}|Foodzx.Power1.Framework.Mail\\Foodzx.Power1.Framework.Mail.csproj|solutionrelative:foodzx.power1.framework.mail\\mailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{492C9265-40D9-4E46-9DA0-624EE3E1EABB}|Foodzx.Power1.Framework.Mail\\Foodzx.Power1.Framework.Mail.csproj|D:\\dev\\Foodzx.Power1\\foodzx.power1.framework.mail\\interfaces\\imailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{492C9265-40D9-4E46-9DA0-624EE3E1EABB}|Foodzx.Power1.Framework.Mail\\Foodzx.Power1.Framework.Mail.csproj|solutionrelative:foodzx.power1.framework.mail\\interfaces\\imailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JsonInteger.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonInteger.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Json\\JsonInteger.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonInteger.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Json\\JsonInteger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:58:54.9Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:37:10.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrameworkConfigurationDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\Configuration\\FrameworkConfigurationDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\Configuration\\FrameworkConfigurationDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\Configuration\\FrameworkConfigurationDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\Configuration\\FrameworkConfigurationDataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:20:04.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProvider.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\Providers\\UserProvider.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\Providers\\UserProvider.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\Providers\\UserProvider.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\Providers\\UserProvider.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:25:10.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileDataAccess.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\FileDataAccess.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataAccess\\FileDataAccess.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\FileDataAccess.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataAccess\\FileDataAccess.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:26:11.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactDataAccess.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\ContactDataAccess.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataAccess\\ContactDataAccess.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\ContactDataAccess.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataAccess\\ContactDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:09:02.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\UserManager.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\UserManager.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\UserManager.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\UserManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:41:01.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDataAccess.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\UserDataAccess.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataAccess\\UserDataAccess.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\UserDataAccess.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataAccess\\UserDataAccess.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:32:02.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiUserLogic.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Logic\\ApiUserLogic.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Logic\\ApiUserLogic.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Logic\\ApiUserLogic.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Logic\\ApiUserLogic.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:39:07.536Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationProvider.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Configuration\\ConfigurationProvider.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Configuration\\ConfigurationProvider.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Configuration\\ConfigurationProvider.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Configuration\\ConfigurationProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:32:05.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySqlDataAccessConnection.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessConnection.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessConnection.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessConnection.cs",
+              "RelativeToolTip": "Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessConnection.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:42:39.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.MailPullerApp\\Program.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.MailPullerApp\\Program.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.MailPullerApp\\Program.cs",
+              "RelativeToolTip": "Foodzx.Power1.MailPullerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:26:52.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\UserDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataModel\\UserDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\UserDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataModel\\UserDataModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:22:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigurationDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Configuration\\ConfigurationDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Configuration\\ConfigurationDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Configuration\\ConfigurationDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Configuration\\ConfigurationDataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:33:12.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigurationDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.MailPullerApp\\Configuration\\ConfigurationDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.MailPullerApp\\Configuration\\ConfigurationDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.MailPullerApp\\Configuration\\ConfigurationDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.MailPullerApp\\Configuration\\ConfigurationDataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:57:14.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MailboxDataAccess.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\MailboxDataAccess.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataAccess\\MailboxDataAccess.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\MailboxDataAccess.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataAccess\\MailboxDataAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:30:13.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MailMessageDataAccess.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\MailMessageDataAccess.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataAccess\\MailMessageDataAccess.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\MailMessageDataAccess.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataAccess\\MailMessageDataAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:25:19.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrganizationDataAccess.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\OrganizationDataAccess.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataAccess\\OrganizationDataAccess.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\OrganizationDataAccess.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataAccess\\OrganizationDataAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:27:57.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProjectDataAccess.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\ProjectDataAccess.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataAccess\\ProjectDataAccess.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataAccess\\ProjectDataAccess.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataAccess\\ProjectDataAccess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T20:30:09.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MySqlDataAccessPrimeBase.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessPrimeBase.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessPrimeBase.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessPrimeBase.cs",
+              "RelativeToolTip": "Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessPrimeBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:59:20.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDataAccessConfiguration.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Interfaces\\IDataAccessConfiguration.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.DataAccess\\Interfaces\\IDataAccessConfiguration.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Interfaces\\IDataAccessConfiguration.cs",
+              "RelativeToolTip": "Foodzx.Power1.DataAccess\\Interfaces\\IDataAccessConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:10:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MySqlDataAccessBase.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessBase.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessBase.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessBase.cs",
+              "RelativeToolTip": "Foodzx.Power1.DataAccess\\Base\\MySqlDataAccessBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:00:39.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataAccessManager.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\DataAccessManager.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.DataAccess\\DataAccessManager.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\DataAccessManager.cs",
+              "RelativeToolTip": "Foodzx.Power1.DataAccess\\DataAccessManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:49:52.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JsonObject.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonObject.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Json\\JsonObject.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonObject.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Json\\JsonObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:18:19.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IJsonObject.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\Interface\\IJsonObject.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Json\\Interface\\IJsonObject.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\Interface\\IJsonObject.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Json\\Interface\\IJsonObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:42:06.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JsonArray.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonArray.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Json\\JsonArray.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonArray.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Json\\JsonArray.cs",
+              "ViewState": "AgIAAAUAAAAAAKCcjAstwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:03:50.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:12:05.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JsonString.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonString.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Json\\JsonString.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonString.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Json\\JsonString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:56:42.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:11:15.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PortalUserController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\PortalUserController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\PortalUserController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\PortalUserController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\PortalUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:14:37.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\FileController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:16:04.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MailboxController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\MailboxController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\MailboxController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\MailboxController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\MailboxController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:19:00.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MailMessageController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\MailMessageController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\MailMessageController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\MailMessageController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\MailMessageController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:21:12.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:22:53.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrganizationController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\OrganizationController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\OrganizationController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\OrganizationController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\OrganizationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:24:19.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\SettingController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\SettingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:26:01.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ActionResultDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Common\\DataModel\\ActionResultDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Common\\DataModel\\ActionResultDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Common\\DataModel\\ActionResultDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Common\\DataModel\\ActionResultDataModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:49:09.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ActionResultJsonProvider.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Common\\Providers\\ActionResultJsonProvider.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Common\\Providers\\ActionResultJsonProvider.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Common\\Providers\\ActionResultJsonProvider.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Common\\Providers\\ActionResultJsonProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:35:29.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "JsonGuid.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonGuid.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Json\\JsonGuid.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonGuid.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Json\\JsonGuid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:01:49.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JsonBoolean.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonBoolean.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Json\\JsonBoolean.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Json\\JsonBoolean.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Json\\JsonBoolean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:40:17.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PingController.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\PingController.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Controllers\\PingController.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Controllers\\PingController.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Controllers\\PingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:05:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Common\\Class1.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Common\\Class1.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Common\\Class1.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Common\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:48:23.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ContactDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\ContactDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataModel\\ContactDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\ContactDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataModel\\ContactDataModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:13:48.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MailboxDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\MailboxDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataModel\\MailboxDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\MailboxDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataModel\\MailboxDataModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:44:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MailMessageDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\MailMessageDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataModel\\MailMessageDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\MailMessageDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataModel\\MailMessageDataModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:52:18.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrganizationDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\OrganizationDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataModel\\OrganizationDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\OrganizationDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataModel\\OrganizationDataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:17:06.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProjectDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\ProjectDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataModel\\ProjectDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\ProjectDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataModel\\ProjectDataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:23:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FileDataModel.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\FileDataModel.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework\\DataModel\\FileDataModel.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework\\DataModel\\FileDataModel.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework\\DataModel\\FileDataModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:26:57.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Global.asax.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Global.asax.cs",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:09:34.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DataModelBase.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Base\\DataModelBase.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.DataAccess\\Base\\DataModelBase.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.DataAccess\\Base\\DataModelBase.cs",
+              "RelativeToolTip": "Foodzx.Power1.DataAccess\\Base\\DataModelBase.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAlwJUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:56:48.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Web.config",
+              "RelativeDocumentMoniker": "Foodzx.Power1.WebApi\\Web.config",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.WebApi\\Web.config",
+              "RelativeToolTip": "Foodzx.Power1.WebApi\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-30T22:05:42.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IMailConfiguration.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Mail\\Interfaces\\IMailConfiguration.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Mail\\Interfaces\\IMailConfiguration.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Mail\\Interfaces\\IMailConfiguration.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Mail\\Interfaces\\IMailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:35:10.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MailManager.cs",
+              "DocumentMoniker": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Mail\\MailManager.cs",
+              "RelativeDocumentMoniker": "Foodzx.Power1.Framework.Mail\\MailManager.cs",
+              "ToolTip": "D:\\dev\\Foodzx.Power1\\Foodzx.Power1.Framework.Mail\\MailManager.cs",
+              "RelativeToolTip": "Foodzx.Power1.Framework.Mail\\MailManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:58:19.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

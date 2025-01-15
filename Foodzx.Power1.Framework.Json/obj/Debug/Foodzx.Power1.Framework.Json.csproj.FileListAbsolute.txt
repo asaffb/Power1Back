@@ -1,0 +1,9 @@
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\bin\Debug\Foodzx.Power1.Framework.Json.dll
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\bin\Debug\Foodzx.Power1.Framework.Json.pdb
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\obj\Debug\Foodzx.Power1.Framework.Json.csproj.AssemblyReference.cache
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\obj\Debug\Foodzx.Power1.Framework.Json.csproj.CoreCompileInputs.cache
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\obj\Debug\Foodzx.Power1.Framework.Json.dll
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\obj\Debug\Foodzx.Power1.Framework.Json.pdb
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\bin\Debug\Newtonsoft.Json.dll
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\bin\Debug\Newtonsoft.Json.xml
+D:\dev\Foodzx.Power1\Foodzx.Power1.Framework.Json\obj\Debug\Foodzx.P.8F9F9B1B.Up2Date

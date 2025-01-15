@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Foodzx.Power1.DataAccess.Base;
+using Foodzx.Power1.Framework.DataModel;
+
+namespace Foodzx.Power1.Framework.DataAccess
+{
+    public class MailMessageDataAccess : MySqlDataAccessBase<MailMessageDataModel>
+    {
+        public MailMessageDataAccess(MySqlDataAccessConnection connection) : base(connection)
+        {
+
+        }
+
+
+
+        public override MailMessageDataModel CreateDataModel()
+        {
+            return new MailMessageDataModel();
+        }
+
+        public override string GetTableName()
+        {
+            return "MailboxMessages";
+        }
+    }
+}
